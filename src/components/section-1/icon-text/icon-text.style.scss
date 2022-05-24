@@ -1,0 +1,29 @@
+.icon-container {
+  box-sizing: border-box;
+  max-width: 161px;
+  min-width: 110px;
+  height: 56px;
+  justify-content: space-between;
+  display: flex;
+  background: #f8f9fb;
+  border-radius: 10px;
+
+  .bottom-image {
+    width: 53px;
+    height: 21px;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 1px;
+  }
+
+  .bottom-text {
+    margin: 10px;
+    text-align: right;
+    max-width: 50%;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #010f32;
+  }
+}

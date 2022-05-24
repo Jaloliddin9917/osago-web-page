@@ -1,0 +1,284 @@
+.footer-container {
+  position: absolute;
+  left: 0px;
+  top: 7080px;
+  box-sizing: border-box;
+
+  .top {
+    background: #ffa63a;
+    width: 1440px;
+    height: 141px;
+    box-sizing: border-box;
+
+    .top-1 {
+      .top-1-1 {
+        position: absolute;
+        left: 147px;
+        top: -14px;
+        width: 150.5px;
+        height: 184.33px;
+        background: url("../../assets//footer/iphone2.svg");
+        background-repeat: no-repeat;
+      }
+      .top-1-2 {
+        position: absolute;
+        left: 248.67px;
+        top: -40px;
+        width: 150.5px;
+        height: 210px;
+        background: url("../../assets//footer/iphone1.svg");
+        background-repeat: no-repeat;
+      }
+      .top-1-3 {
+        position: absolute;
+        width: 242.17px;
+        height: 47.83px;
+        left: 157px;
+        top: 122.7px;
+        background: linear-gradient(
+          180deg,
+          rgba(255, 166, 58, 0) 0%,
+          #ffa63a 100%
+        );
+      }
+    }
+
+    .top-2 {
+      margin-top: 23px;
+      h4 {
+        color: #ffffff;
+        margin-left: 420px;
+        margin-bottom: 15px;
+        width: 490px;
+        height: 32px;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 62px;
+      }
+      p {
+        width: 894px;
+        height: 60px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        color: #ffffff;
+        margin-left: 420px;
+        margin-top: 0;
+      }
+    }
+  }
+
+  .middle {
+    width: 1440px;
+    height: 115px;
+    background-color: white;
+    display: flex;
+    grid-gap: 47px;
+    padding-top: 44px;
+    box-sizing: border-box;
+
+    .middle-1 {
+      width: 135px;
+      height: 29px;
+      background: url("../../assets/footer/footer-logo-1.svg");
+      background-repeat: no-repeat;
+    }
+    .middle-2 {
+      width: 122px;
+      height: 26px;
+      background: url("../../assets/footer/footer-logo-2.svg");
+      background-repeat: no-repeat;
+    }
+    .middle-3 {
+      width: 145px;
+      height: 33px;
+      background: url("../../assets/footer/footer-logo-3.svg");
+      background-repeat: no-repeat;
+    }
+    .middle-4 {
+      width: 137px;
+      height: 25px;
+      background: url("../../assets/footer/footer-logo-4.svg");
+      background-repeat: no-repeat;
+    }
+    .middle-5 {
+      width: 136px;
+      height: 30px;
+      background: url("../../assets/footer/footer-logo-5.svg");
+      background-repeat: no-repeat;
+    }
+    .middle-6 {
+      width: 118px;
+      height: 35px;
+      background: url("../../assets/footer/footer-logo-6.svg");
+      background-repeat: no-repeat;
+    }
+    .middle-7 {
+      width: 101px;
+      height: 33px;
+      background: url("../../assets/footer/footer-logo-7.svg");
+      background-repeat: no-repeat;
+    }
+    .middle-8 {
+      width: 109px;
+      height: 27px;
+      background: url("../../assets/footer/footer-logo-8.svg");
+      background-repeat: no-repeat;
+    }
+    .middle-9 {
+      width: 117px;
+      height: 34px;
+      background: url("../../assets/footer/footer-logo-9.svg");
+      background-repeat: no-repeat;
+    }
+  }
+
+  .bottom {
+    width: 1440px;
+    height: 289px;
+    background: #f8f9fb;
+    padding: 66px;
+    box-sizing: border-box;
+    display: flex;
+
+    .bottom-1 {
+      width: 150px;
+      margin-left: 90px;
+    }
+    .bottom-2 {
+      margin-left: 56px;
+      .bottom-2-1 {
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 29px;
+        color: #010f32;
+        margin-bottom: 10px;
+      }
+      .bottom-2-2 {
+        width: 180px;
+        height: 150px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        color: #748db1;
+      }
+    }
+    .bottom-3 {
+      margin-left: 98px;
+      .bottom-3-1 {
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 29px;
+        color: #010f32;
+        margin-bottom: 10px;
+      }
+      .bottom-3-2 {
+        width: 190px;
+        height: 150px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        color: #748db1;
+      }
+    }
+    .bottom-4 {
+      margin-left: 49px;
+      .bottom-4-1 {
+        width: 170px;
+        height: 150px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        color: #748db1;
+        margin-top: 36px;
+      }
+    }
+    .bottom-5 {
+      margin-left: 30px;
+      .bottom-5-1 {
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 29px;
+        color: #010f32;
+        margin-bottom: 15px;
+      }
+      .bottom-5-2 {
+        display: flex;
+        grid-gap: 23px;
+      }
+      .bottom-5-3 {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 35px;
+        color: #3a62ff;
+        margin-top: 21px;
+      }
+      .bottom-5-4 {
+        width: 275px;
+        height: 38px;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 19px;
+        color: #8799b5;
+      }
+    }
+  }
+
+  .lowest {
+    box-sizing: border-box;
+    width: 1440px;
+    height: 87px;
+    border: 1px solid #dae2e9;
+    background: #f8f9fb;
+    display: flex;
+
+    .lowest-1 {
+      width: 456px;
+      height: 21px;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 21px;
+      color: #b4bfd1;
+      margin: 32px 147px;
+    }
+    .lowest-2 {
+      width: 83px;
+      height: 21px;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 21px;
+      color: #748db1;
+      margin: 32px 50px;
+    }
+    .lowest-22 {
+      width: 195px;
+      height: 21px;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 21px;
+      color: #b4bfd1;
+      margin: 32px 12px 0 0px;
+    }
+    .lowest-3 {
+      width: 51px;
+      height: 16px;
+      background: url("../../assets/footer/visa.svg");
+      background-repeat: no-repeat;
+      margin: 35px 12px 0 0;
+    }
+    .lowest-4 {
+      width: 35px;
+      height: 26.96px;
+      background: url("../../assets/footer/master.svg");
+      background-repeat: no-repeat;
+      margin: 30px 12px 0 0;
+    }
+    .lowest-5 {
+      width: 24px;
+      height: 24px;
+      background: url("../../assets/footer/24-logo.svg");
+      background-repeat: no-repeat;
+      margin: 30px 12px 0 0;
+    }
+  }
+}

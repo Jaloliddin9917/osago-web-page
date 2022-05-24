@@ -1,0 +1,48 @@
+.middle-container {
+position: relative;
+  .middle-1 {
+    position: relative;
+    width: 347px;
+    height: 127px;
+    background: #ffffff;
+    border-radius: 15px;
+    box-sizing: border-box;
+    display: flex;
+    z-index: 111;
+    
+  
+    .middle-1-1 {
+      padding: 41px 0 41px 25px;
+    }
+    .middle-1-2 {
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 29px;
+      color: #010f32;
+      margin-left: 20px;
+      margin-top: 25px;
+  
+      p {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        color: #748db1;
+        margin: 0;
+      }
+    }
+    .middle-1-3 {
+      margin-top: 15px;
+      margin-right: 15px;
+    }
+    
+  }
+  .middle-2 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 280px;
+    top: -16px;
+    background: #e6ebff;
+    border-radius: 15px;
+  }
+}

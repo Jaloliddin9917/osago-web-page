@@ -1,0 +1,86 @@
+.section-5-container {
+  box-sizing: border-box;
+  position: absolute;
+  width: 1146px;
+  height: 623px;
+  left: 147px;
+  top: 3061px;
+  border: 1px solid #f0f1f3;
+  border-radius: 20px;
+
+  .left {
+    .left-1 {
+      display: flex;
+      margin-top: 83px;
+      margin-left: 80px;
+      .left-1-1 {
+        box-sizing: border-box;
+        width: 253px;
+        height: 40px;
+        background: #e6ebff;
+        border-radius: 10px 0px 0px 10px;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 21px;
+        color: #3a62ff;
+        padding: 11px 12px 8px 12px;
+      }
+      .left-1-2 {
+        box-sizing: border-box;
+        width: 100px;
+        height: 40px;
+        background: #ffa63a;
+        border-radius: 0px 10px 10px 0px;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 32px;
+        color: #ffffff;
+        padding: 4px 10px 3px 10px;
+      }
+    }
+    .left-2 {
+      width: 576px;
+      height: 200px;
+      font-weight: 700;
+      font-size: 46px;
+      line-height: 50px;
+      color: #010f32;
+      margin-left: 80px;
+      margin-top: 28px;
+
+      span {
+        color: #3a62ff;
+        border-bottom: 5px solid #ffa63a;
+      }
+    }
+    .left-3 {
+      width: 428px;
+      height: 87px;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 29px;
+      color: #748db1;
+      margin-top: 30px;
+      margin-left: 80px;
+    }
+    .left-4 {
+        margin-top: 39px;
+        margin-left: 80px;
+    }
+  }
+
+  .right {
+    position: absolute;
+    width: 612px;
+    height: 621px;
+    left: 532px;
+    top: 0px;
+    background: linear-gradient(
+        90deg,
+        #ffffff 0%,
+        rgba(255, 255, 255, 0) 45.68%
+      ),
+      url("../../assets/section-5/notary.svg");
+    border-radius: 0px 20px 20px 0px;
+  }
+}

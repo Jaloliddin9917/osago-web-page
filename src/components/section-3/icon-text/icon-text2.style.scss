@@ -1,0 +1,39 @@
+.icon2-container {
+  margin-top: 80px;
+  width: 200px;
+  height: 220px;
+  position: relative;
+
+  .icon2-main {
+    z-index: 11;
+    .con-image {
+      width: 100px;
+      height: 100px;
+      background: #ffffff;
+      border-radius: 15px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-left: 50px;
+      margin-bottom: 30px;
+    }
+    .con-text {
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 24px;
+      text-align: center;
+      color: #010f32;
+    }
+  }
+
+  .shadow {
+    position: absolute;
+    display: flex;
+    width: 80px;
+    height: 80px;
+    left: 90px;
+    top: -16px;
+    background: #e6ebff;
+    border-radius: 15px;
+  }
+}

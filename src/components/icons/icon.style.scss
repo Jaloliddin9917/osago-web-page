@@ -1,0 +1,94 @@
+.container-icons {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  box-sizing: border-box;
+
+  &.viber {
+    background: linear-gradient(180deg, #a55cee 0%, #854aba 100%);
+    background-image: url("../../assets/header/viber-l.svg");
+    background-repeat: no-repeat;
+  }
+  &.whatsapp {
+    background: linear-gradient(180deg, #a6f7a5 0%, #49d035 100%);
+    background-image: url("../../assets/header/whatsapp.svg");
+    background-repeat: no-repeat;
+  }
+  &.telegram {
+    background: #ffffff;
+    // box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+    background-image: url("../../assets/header/telegram-l.svg");
+    background-repeat: no-repeat;
+  }
+  &.viberLong {
+    width: 223px;
+    height: 45px;
+    background: linear-gradient(180deg, #a55cee 0%, #854aba 100%);
+    border-radius: 40px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    box-sizing: border-box;
+    display: flex;
+    padding-top: 8px;
+    
+    .viberCss {
+      margin-left: 67px;
+      margin-right: 6px;
+      width: 27.84px;
+      height: 29.25px;
+    }
+  }
+  &.telegramLong {
+    color: white;
+    width: 223px;
+    height: 45px;
+    background: linear-gradient(203.21deg, #37aee2 21.69%, #1e96c8 69.99%);
+    border-radius: 40px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+  }
+  &.drop {
+    width: 20px;
+    height: 20px;
+    color: white;
+    background: #3a62ff;
+  }
+  &.number {
+    width: 20px;
+    height: 20px;
+    color: white;
+    background: #ffa63a;
+  }
+  &.bigNumber {
+    width: 40px;
+    height: 40px;
+    color: white;
+    background: #ffa63a;
+    font-size: 18px;
+    border-radius: 50%;
+  }
+  &.plusAndClose {
+    box-sizing: border-box;
+    width: 36px;
+    height: 36px;
+    border: 1px solid #aebcd1;
+    border-radius: 50%;
+    font-size: 22px;
+    color: #aebcd1;
+  }
+  &.correct {
+    box-sizing: border-box;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #aebcd1;
+    border-radius: 50%;
+    font-size: 20px;
+    background: #ebeef3;
+    padding-bottom: 5px;
+  }
+}

@@ -1,0 +1,18 @@
+.text-container {
+  box-sizing: border-box;
+  position: relative;
+  max-width: 270px;
+  min-width: 109px;
+  height: 56px;
+  padding-left: 5px;
+  padding-right: 5px;
+  background: #f8f9fb;
+  border-radius: 10px;
+  p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #748db1;
+  }
+}

@@ -1,0 +1,37 @@
+.carousel-item-container {
+  position: relative;
+  box-sizing: border-box;
+  width: 362px;
+  height: 332px;
+  background: #f8f9fb;
+  border-radius: 20px;
+  padding: 59px 40px 40px 40px;
+
+  .carousel-top {
+    position: absolute;
+    width: 89px;
+    height: 69px;
+    left: 40px;
+    top: -20px;
+    background: #e6ebff;
+    background: url("../../../assets/section-4/tirnoq.svg");
+    background-repeat: no-repeat;
+    z-index: 111;
+  }
+
+  .carousel-auth {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: #748db1;
+    margin-top: 19px;
+  }
+
+  .carousel-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3a62ff;
+    margin-top: 4px;
+  }
+}

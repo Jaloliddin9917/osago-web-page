@@ -1,0 +1,25 @@
+.section-7-container {
+  position: absolute;
+  width: 1440px;
+  height: 764px;
+  left: 0px;
+  top: 4698px;
+  background: white;
+  box-sizing: border-box;
+
+  .top {
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 36px;
+    color: #010f32;
+    margin-top: 100px;
+    margin-left: 175px;
+    margin-bottom: 40px;
+  }
+
+  .main {
+    display: flex;
+    justify-content: center;
+    grid-gap: 30px;
+  }
+}

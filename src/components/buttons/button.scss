@@ -1,0 +1,128 @@
+
+.button-con {
+  height: 45px;
+  color: #ffffff;
+  background: #3a62ff;
+  border-radius: 41px;
+  cursor: pointer;
+
+  &.basic {
+    border: none;
+    font-size: 18px;
+  }
+
+  &.yellow {
+    box-sizing: border-box;
+    width: 183px;
+    height: 38px;
+    background: #ffa63a;
+    border: 2px solid #ffa63a;
+    border-radius: 10px;
+  }
+  &.dropdownBtn {
+    width: 170px;
+    height: 45px;
+    background: #3a62ff;
+    border-radius: 41px;
+    border: none;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 27px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #ffffff;
+    display: flex;
+    padding-left: 13px;
+    padding-top: 9px;
+  }
+  &.nextBtn {
+    width: 131px;
+    height: 45px;
+    background: #3a62ff;
+    border-radius: 41px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #ffffff;
+    border: none;
+    display: flex;
+    padding-top: 9px;
+    padding-left: 29px;
+    .nextCss {
+      margin-top: 5px;
+      margin-left: 10px;
+    }
+  }
+  &.memberForm {
+    width: 223px;
+    height: 45px;
+    background: #3a62ff;
+    border-radius: 41px;
+    border: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #ffffff;
+    display: flex;
+    padding-top: 8px;
+    padding-left: 25px;
+
+    .memberCss {
+      margin-top: 5px;
+      margin-left: 6px;
+    }
+  }
+  &.outlineBlue {
+    box-sizing: border-box;
+    width: 140px;
+    height: 45px;
+    border: 1px solid #3a62ff;
+    border-radius: 41px;
+    background: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #3a62ff;
+    margin-bottom: 15px;
+  }
+  &.outlineYellow {
+    box-sizing: border-box;
+    width: 140px;
+    height: 45px;
+    border: 1px solid #ffa63a;
+    border-radius: 41px;
+    background: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #ffa63a;
+    margin-bottom: 15px;
+  }
+  &.outlineGray {
+    box-sizing: border-box;
+    width: 140px;
+    height: 45px;
+    border: 1px solid #748db1;
+    border-radius: 41px;
+    background: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #748db1;
+  }
+  &.buyBtn {
+    box-sizing: border-box;
+    width: 138px;
+    height: 45px;
+    border: none;
+    background: #3a62ff;
+    border-radius: 41px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #ffffff;
+  }
+}
