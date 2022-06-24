@@ -1,0 +1,134 @@
+{
+  "airlines": [
+    {
+      "id": 11,
+      "name": "Swiss International Air Lines",
+      "country": "Switzerland",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Swiss_International_Air_Lines_Logo_2011.svg/200px-Swiss_International_Air_Lines_Logo_2011.svg.png",
+      "slogan": "Made of Switzerland. The Airline of Switzerland",
+      "head_quaters": "EuroAirport Basel Mulhouse Freiburg near Basel, Switzerland",
+      "website": "www.swiss.com",
+      "established": "2002",
+      "createdDate": "2020-06-21T14:43:49.150Z"
+    },
+    {
+      "id": 150,
+      "name": "Paris Airways",
+      "country": "France",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Thai_Airways_Logo.svg/200px-Thai_Airways_Logo.svg.png",
+      "slogan": "Smooth as Silk / I Fly THAI",
+      "head_quaters": "Jom Phol Subdistrict, Chatuchak, Bangkok, Thailand",
+      "website": "www.thaiairways.com",
+      "established": "1960"
+    },
+    {
+      "id": 55,
+      "name": "Vueling",
+      "country": "Spain",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Thai_Airways_Logo.svg/200px-Thai_Airways_Logo.svg.png",
+      "slogan": "Smooth as Silk / I Fly THAI",
+      "head_quaters": "Jom Phol Subdistrict, Chatuchak, Bangkok, Thailand",
+      "website": "www.vueling.com",
+      "established": "1960"
+    },
+    {
+      "id": 300,
+      "name": "Cathay Pacific",
+      "country": "Hong Kong",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Cathay_Pacific_logo.svg/300px-Cathay_Pacific_logo.svg.png",
+      "slogan": "Move Beyond",
+      "head_quaters": "Cathay City, Hong Kong International Airport, Chek Lap Kok, Hong Kong",
+      "website": "www.cathaypacific.com",
+      "established": "1946"
+    },
+    {
+      "id": 22,
+      "name": "Lufthansa",
+      "country": "Allemagne",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/EVA_Air_logo.svg/250px-EVA_Air_logo.svg.png",
+      "slogan": "Sharing the World, Flying Together",
+      "head_quaters": "376, Hsin-Nan Rd., Sec. 1, Luzhu, Taoyuan City, Taiwan",
+      "website": "www.evaair.com",
+      "established": "1989"
+    },
+    {
+      "name": "invest",
+      "country": "ssasa",
+      "logo": "ASASASA",
+      "slogan": "ASSAS",
+      "head_quaters": "ASASAS",
+      "website": "mail@jjpoja.com",
+      "established": "788787",
+      "id": 807
+    },
+    {
+      "name": "employee",
+      "country": "bnmbmn",
+      "logo": "bnbmn",
+      "slogan": "ljkljk",
+      "head_quaters": "jhjkhj",
+      "website": "mail@jjpoja.com",
+      "established": "00990",
+      "id": 810
+    },
+    {
+      "established": 766767,
+      "website": "www.roma@gmail.com",
+      "head_quaters": "sasa",
+      "slogan": "iohoih",
+      "logo": "ASASASA",
+      "country": "asasa",
+      "name": "Jalol",
+      "id": 811
+    },
+    {
+      "established": 67777,
+      "website": "www.evaair@mail.com",
+      "head_quaters": "sasa",
+      "slogan": "assasas",
+      "logo": "ASASASA",
+      "country": "bnmbmn",
+      "name": "hjjjjdsds",
+      "id": 812
+    },
+    {
+      "established": 877887,
+      "website": "www.evaair@mail.com",
+      "head_quaters": "sasa",
+      "slogan": "HWJHW",
+      "logo": "bnbmn",
+      "country": "asasa",
+      "name": "jhhjhjj",
+      "id": 813
+    },
+    {
+      "name": "nananaan",
+      "country": "uuiiiuiui",
+      "logo": "qaaaa",
+      "slogan": "jhjhjh",
+      "head_quaters": "jhjh",
+      "website": "jjhhjh",
+      "established": "jhjhj",
+      "id": 815
+    },
+    {
+      "name": "sagdhg5667676",
+      "country": "test",
+      "logo": "kjkj",
+      "slogan": "lkkl",
+      "head_quaters": "kjkj",
+      "website": "kjkj",
+      "established": "jhjh",
+      "id": 816
+    }
+  ],
+  "users": [
+    {
+      "username": "jaloliddin",
+      "email": "jalol@gmail.com",
+      "password": "12345678",
+      "cofirmpassword": "12345678",
+      "id": 1
+    }
+  ]
+}

@@ -11,6 +11,7 @@ export const BUTTON_TYPE_CLASSES = {
   viberLong: "viberLong",
   plusAndClose: "plusAndClose",
   correct: "correct",
+  pagination: "pagination"
 };
 
 const Icon = ({ children, buttonType, ...otherProps }) => {

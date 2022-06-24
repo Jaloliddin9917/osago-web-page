@@ -1,0 +1,39 @@
+.loader {
+  display: flex;
+  justify-content: center;
+}
+
+.block-container {
+  box-sizing: border-box;
+  width: 1146px;
+  height: 1600px;
+  margin: 0px auto;
+  .add-block-link {
+    margin-top: 30px;
+    margin-left: 950px;
+
+  }
+
+  .block-title {
+    width: 97px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 50px;
+    color: #010f32;
+    border-bottom: 5px solid #ffa63a;
+    margin-left: -5px;
+    margin-top: 50px;
+    margin-bottom: 42px;
+  }
+  .block-card {
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: auto auto auto ;
+  }
+  .block-pagination {
+    display: flex;
+    grid-gap: 5px;
+    margin-top: 60px;
+  }
+}

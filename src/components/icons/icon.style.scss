@@ -34,7 +34,7 @@
     box-sizing: border-box;
     display: flex;
     padding-top: 8px;
-    
+
     .viberCss {
       margin-left: 67px;
       margin-right: 6px;
@@ -90,5 +90,19 @@
     font-size: 20px;
     background: #ebeef3;
     padding-bottom: 5px;
+  }
+  &.pagination {
+    box-sizing: border-box;
+    // padding-top: 4px;
+    width: 35px;
+    height: 28px;
+    background: #ffffff;
+    border: 1px solid #ebeef3;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    text-align: center;
+    color: #3a62ff;
   }
 }

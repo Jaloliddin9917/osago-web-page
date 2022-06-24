@@ -1,0 +1,28 @@
+.swiper {
+  box-sizing: border-box !important;
+  z-index: 0 !important;
+  width: 1440px !important;
+  height: 390px !important;
+  margin-left: 30px!important;
+  
+  .swiper-wrapper {
+    display: flex !important;
+    grid-gap: 85px !important;
+    margin: 0 auto !important;
+  }
+  .swiper-scrollbar {
+    box-sizing: border-box;
+    width: 621px !important;
+    height: 10px !important;
+    background: #f8f9fb;
+    border-radius: 15px;
+    left: 408px !important;
+    .swiper-scrollbar-drag {
+      box-sizing: border-box;
+      width: 101px !important;
+      height: 10px;
+      background: #ffa63a;
+      border-radius: 15px;
+    }
+  }
+}

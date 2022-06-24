@@ -1,0 +1,40 @@
+.block-detail-container {
+  width: 1146px;
+  height: 600px;
+  margin: 80px auto;
+  display: flex;
+  background: #f5f7f9;
+  border-radius: 15px;
+  .right {
+    margin-top: 50px;
+    width: 573px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 50px;
+    color: #010f32;
+
+    span {
+      color: #748db1;
+      font-size: 20px;
+    }
+  }
+  .left {
+    margin-top: 50px;
+    width: 573px;
+
+    .block-detail-logo {
+      box-sizing: border-box;
+      width: 350px;
+      height: 200px;
+      background: #fff;
+      margin-left: 50px;
+      border-radius: 15px;
+      padding:  50px 30px;
+    }
+  }
+
+  .bottom-buttons {
+    display: flex;
+    grid-gap: 20px;
+  }
+}

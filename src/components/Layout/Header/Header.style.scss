@@ -1,0 +1,144 @@
+.container {
+  position: relative;
+  width: 1440px;
+  height: 140px;
+  background-color: #f5f7f9;
+  margin: 0 auto;
+
+  .header-top {
+    width: 1260px;
+    height: 50px;
+    background-color: #ffa63a;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding-top: 10px;
+    clip-path: polygon(0 0, 100% 0%, 96% 100%, 4% 100%);
+    .header-top-1 {
+      box-sizing: border-box;
+      display: flex;
+      grid-gap: 30px;
+      padding-left: 40px;
+      .vector {
+        display: flex;
+        grid-gap: 7px;
+
+        .vector-title {
+          font-weight: 700;
+          font-size: 16px;
+          line-height: 24px;
+          color: #ffffff;
+        }
+      }
+    }
+  }
+
+  .header-bottom {
+    margin: 0 auto;
+    box-sizing: border-box;
+
+    .logoPresent {
+      position: absolute;
+      width: 224px;
+      height: 109px;
+      left: 130px;
+      top: 62px;
+      z-index: 2;
+    }
+
+    .header-1 {
+      position: absolute;
+      width: 224px;
+      height: 109px;
+      left: 177px;
+      top: 60px;
+      background-color: #f5f7f9;
+      border-radius: 7px;
+
+      .header-1-1 {
+        padding-left: 40px;
+        padding-top: 25px;
+        .drim {
+          margin: 0;
+          font-size: 24px;
+          font-weight: 800;
+          color: #3a62ff;
+        }
+
+        .drim-p {
+          font-size: 14px;
+          font-weight: 400;
+        }
+      }
+    }
+
+    .header-2 {
+      position: absolute;
+      display: flex;
+      left: 445px;
+      top: 65px;
+
+      .links {
+        display: flex;
+        grid-gap: 30px;
+        margin-top: 15px;
+        .link {
+          text-decoration: none;
+          font-weight: 400;
+          font-size: 18px;
+          line-height: 27px;
+          color: black;
+        }
+      }
+
+      .header-button {
+        position: absolute;
+        left: 365px;
+        top: 7px;
+
+        .bottomBtn {
+          box-sizing: border-box;
+          width: 29px;
+          height: 29px;
+          border: 1px solid #ffffff;
+          border-radius: 50%;
+          margin-left: 10px;
+          padding-top: 3px;
+        }
+      }
+    }
+
+    .header-3 {
+      position: absolute;
+      left: 1020px;
+      top: 75px;
+      display: flex;
+
+      .header-3-1 {
+        display: flex;
+        grid-gap: 10px;
+      }
+
+      .header-3-2 {
+        position: absolute;
+        width: 125px;
+        height: 35px;
+        left: 148px;
+        bottom: 12px;
+
+        p {
+          font-weight: 700;
+          font-size: 24px;
+          margin: 0;
+          color: #3a62ff;
+        }
+
+        span {
+          font-weight: 400;
+          font-size: 14px;
+          margin: 0;
+          color: #8799b5;
+        }
+      }
+    }
+  }
+}

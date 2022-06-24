@@ -11,6 +11,9 @@ export const BUTTON_TYPE_CLASSES = {
   outlineYellow: "outlineYellow",
   outlineGray: "outlineGray",
   buyBtn: "buyBtn",
+  deleteBtn: "deleteBtn",
+  cardBtn: "cardBtn",
+  errorBtn: "errorBtn",
 };
 
 const Button = ({ children, buttonType, ...otherProps }) => {
